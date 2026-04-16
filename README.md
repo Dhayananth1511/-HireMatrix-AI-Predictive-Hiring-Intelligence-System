@@ -35,7 +35,7 @@ It leverages **LLMs (Gemini/OpenAI)**, data visualization, and automated workflo
 ## 🏗️ System Architecture
 
 ![Architecture Diagram](./assets/architecture-diagram.png)
-
+![ScreenShot(turbotic)](./assets/TurboticAI.png)
 > Modular pipeline architecture ensuring scalability and reliability.
 
 ---
@@ -96,7 +96,8 @@ It leverages **LLMs (Gemini/OpenAI)**, data visualization, and automated workflo
 
 ### 📧 Email Summary
 
-![Email Preview](./assets/email-preview.png)
+![Email Preview](./assets/email-preview1.png)
+![Email Preview](./assets/email-preview2.png)
 
 ---
 
